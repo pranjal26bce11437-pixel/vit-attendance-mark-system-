@@ -1,0 +1,3 @@
+# This project only uses Python's built-in standard library
+# (sqlite3, datetime) - no external packages are required.
+# This file is included for completeness.
